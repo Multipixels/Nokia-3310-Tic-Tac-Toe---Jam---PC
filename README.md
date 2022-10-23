@@ -11,10 +11,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/Multipixels/Nokia-3310-Tic-Tac-Toe---Jam---PC">
-    <img src="Logo.png" alt="Logo" width="120" height="120">
+    <img src="Logo.jpg" alt="Logo" width="120" height="120">
   </a>
 
-<h3 align="center">SelFISH</h3>
+<h3 align="center">Nokia 3310 - Tic Tac Toe</h3>
 
   <p align="center">
     A game made for the <a href="https://itch.io/jam/3310jam">Nokia 3310 JAM</a>
